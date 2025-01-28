@@ -126,7 +126,7 @@ model = Model(base_model.input, output, name='Iris_Detection_ModelV4')
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 Ayman Saber
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
