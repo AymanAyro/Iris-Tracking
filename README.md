@@ -1,6 +1,6 @@
 # Iris Tracking Detection Model
 
-![Eff3_00_00_27-00_00_43](https://github.com/user-attachments/assets/854e2de8-9439-411d-ab39-7ce93b1b72ab)
+![Eff3_00_00_27-00_00_43~1](https://github.com/user-attachments/assets/9b8db49a-2ad4-426a-836e-5586a35e278d)
 *Real-time iris tracking on webcam feed*
 
 ## Overview
